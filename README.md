@@ -46,7 +46,7 @@ The form is configured to send enquiries to Netlify's private dashboard so Omar 
 
 | Design & experience | Implementation |
 | :--- | :--- |
-| **Less, with purpose** — white space, large type and a restrained green palette | System fonts and self-contained CSS; no external font or UI library |
+| **Less, with purpose** — deep green panels, soft cream surfaces and large type | System fonts and self-contained CSS; no external font or UI library |
 | **One clear conversion path** — consultation requests throughout the page | Anchor navigation and a standard form POST |
 | **Contact privacy** — no owner's personal email in the public page | Contact details are collected through Netlify Forms |
 | **Mobile-aware layout** — readable content and stacked sections on small screens | Responsive grids and targeted media queries |
